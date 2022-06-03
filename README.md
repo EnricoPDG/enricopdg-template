@@ -1,1 +1,1 @@
-# enricopdg-template
+# enricopdg-theme
